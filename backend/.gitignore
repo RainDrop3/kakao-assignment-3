@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# SQLite DB (런타임 생성 파일)
+*.db
+
+# env
+.env*.local
+.env
